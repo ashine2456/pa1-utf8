@@ -1,1 +1,2 @@
 Discussion of how you used LLMs/AI tools, who you collaborated with here, etc.
+I used Claude  for help on understanding concepts or any errors and bugs that needed more clarification on. I tested and submitted the final code myself.
